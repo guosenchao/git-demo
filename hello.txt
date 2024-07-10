@@ -20,3 +20,4 @@ hello shangguigu master test
 hello shangguigu hot-fix test
 111111111111111111111111111111
 远程仓库更新
+222222222222222222222222222222 by Drose-hash
